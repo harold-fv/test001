@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/harold-fv/test001/static/css/main.c2cab247.css",
+    "main.js": "/harold-fv/test001/static/js/main.1864d716.js",
+    "index.html": "/harold-fv/test001/index.html",
+    "main.c2cab247.css.map": "/harold-fv/test001/static/css/main.c2cab247.css.map",
+    "main.1864d716.js.map": "/harold-fv/test001/static/js/main.1864d716.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.1864d716.js"
+  ]
+}
